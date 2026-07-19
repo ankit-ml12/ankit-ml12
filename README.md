@@ -36,6 +36,8 @@ tldr; Building is the only thing I'm good at — so I got really good at it.
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 
+> **Note:** most of my professional work isn't visible on this account — my 2023–2026 contributions live at [@ankitmlesmagico](https://github.com/ankitmlesmagico) (private org repos at Es Magico), and my current work at SwishX is on GitLab. This account is my personal & open-source home.
+
 ## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-patiankit6555%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patiankit6555@gmail.com)
