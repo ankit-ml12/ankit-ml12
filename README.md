@@ -38,9 +38,11 @@ tldr; Building is the only thing I'm good at — so I got really good at it.
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-ml12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ml12&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-ml12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ml12&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
+
+<img src="https://ghchart.rshah.org/26a641/ankit-ml12" alt="Contribution graph" width="100%" />
 
 ## 📫 Reach me
 
@@ -50,4 +52,4 @@ tldr; Building is the only thing I'm good at — so I got really good at it.
 
 ---
 
-*Open to conversations about early-stage teams taking something from 0 → 1.*
+*Open to conversations about early, lean teams taking something from **0 → 1** or **1 → 100** — full ownership, heads down, fast shipping.*
