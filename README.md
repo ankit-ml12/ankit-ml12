@@ -45,8 +45,8 @@ tldr; Building is the only thing I'm good at — so I got really good at it.
 ## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-patiankit6555%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patiankit6555@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Patidar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-patidar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top_3%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Patidar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ml12/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_3%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankit_ml12/)
 
 ---
 
